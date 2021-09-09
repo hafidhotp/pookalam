@@ -1,6 +1,6 @@
 ### Hey Folks,
 
-This is a "Pookalam" written in python with the help of wonderfull library called "JOY" which is developed by -  mon school
+This is a "Pookalam" Designed using python with the help of wonderfull library called "JOY" which is developed by -  mon school
 
 <img align="center" alt="pookalam image" height="300px" src="https://github.com/hafidhotp/pookalam/blob/master/pookalam.JPG" />
 
